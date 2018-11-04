@@ -1,0 +1,18 @@
+var dic = [
+"InfPersonal" : ["ci":"94033034028","name":"Dario ","apellidos":"Deya Diaz","age":"23"],
+"Trabajo" : ["lugar":"UCLV","salario":"1020$"]
+]
+
+var arr = [10,20,30]
+
+println(arr)
+println(dic)
+print("CI: ")       println(dic["InfPersonal"]["ci"])
+print("Nombre: ")   print(dic["InfPersonal"]["name"])  println(dic["InfPersonal"]["apellidos"])
+print("Edad: ")     println(dic["InfPersonal"]["age"])
+print("Trabajo: ")  println(dic["Trabajo"]["lugar"])
+print("Salario: ")  println(dic["Trabajo"]["salario"])
+
+do{
+	println(arr)
+}while arr[0]--
