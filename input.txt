@@ -1,5 +1,5 @@
 var dic = [
-"InfPersonal" : ["ci":"94033034028","name":"Dario ","apellidos":"Deya Diaz","age":"23"],
+"InfPersonal" : ["ci":"92021232328","name":"Dario ","apellidos":"Deya Diaz","age":"23"],
 "Trabajo" : ["lugar":"UCLV","salario":"1020$"]
 ]
 
